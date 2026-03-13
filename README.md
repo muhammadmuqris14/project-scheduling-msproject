@@ -89,9 +89,9 @@ Go-Live executed, post-deployment monitoring, handover documentation, client tra
 | File | Description |
 |------|-------------|
 | `Enterprise_ICT_Rollout.mpp` | Full MS Project schedule file |
-| `Gantt_Preview.png` | Full Gantt chart view with critical path highlighted |
-| `Network_Diagram.png` | Network diagram showing full dependency chain |
-| `Resource_Usage.png` | Resource usage view showing hours per resource |
+| `Gantt-chart-Preview.png` | Full Gantt chart view with critical path highlighted |
+| `Network-Diagram-Preview.png` | Network diagram showing full dependency chain |
+| `Resource-Usage-Preview.png` | Resource usage view showing hours per resource |
 
 ---
 
